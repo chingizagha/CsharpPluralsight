@@ -6,6 +6,30 @@ namespace GradeBook.Tests
 {
     public class BookTests
     {
+        [Fact]
+        public void BookSwitch()
+        {
+            var book = new Book();
+
+            book.AddGrade(55);
+
+            var result = book.GetStatistics();
+
+
+            Assert.Equal('F', result.Letter);
+        }
+    
+        //[Fact]
+        //public void BookIfChal()
+        //{
+        //    var book = new Book();
+
+        //    book.AddGrade(105);
+
+        //    var result = book.GetStatistics();
+
+        //    Assert.Equal(0, result.High);
+        //}
         //[Fact]
         //public void BookCalculateAnAverage()
         //{

@@ -6,22 +6,20 @@ namespace GradeBook.Tests
 {
     public class TypeTests
     {
-        [Fact]
-        public void Test1()
-        {
-            int name = 5;
+        //[Fact]
+        //public void Test1()
+        //{
+        //    int name = 5;
 
-            MakeUpper(name);
+        //    MakeUpper(name);
 
-            Assert.Equal(6, name);
-        }
+        //    Assert.Equal(6, name);
+        //}
 
-        private void MakeUpper(int name1)
-        {
-            name1 = 6;
-        }
-
-
+        //private void MakeUpper(int name1)
+        //{
+        //    name1 = 6;
+        //}
 
 
         ///////////////////////////////////////////////////////
