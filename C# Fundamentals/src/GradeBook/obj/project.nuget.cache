@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Sj8sAEFE3Cr2ianjlOoRsJZIarkwJpYYddcY3bwc46dLiwc15zQg02uYveCAv0T9FRC3YoTFyD5Fl8Kzxxmqww==",
+  "dgSpecHash": "2eQ5rwhqT5fCBq4QoPL3dnPWYOfw14hVVnSqloqkr8fng4RXxjRdd+Ulde85k9wBzovhCquDBq2TRasmyskPNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Flauz\\Desktop\\Pluralsight\\C# Fundamentals\\src\\GradeBook\\GradeBook.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\C# Fundamentals\\src\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
