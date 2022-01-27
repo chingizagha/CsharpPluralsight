@@ -4,8 +4,48 @@ using Xunit;
 
 namespace GradeBook.Tests
 {
+
+    public delegate string WriteLogDelegate(string log);
+
     public class TypeTests
     {
+        int count = 0;
+
+        [Fact]
+        public void WriteLogDelegatePointToMethod()
+        {
+            WriteLogDelegate log = WriteLogMethod;
+
+            //log = new WriteLogDelegate(WriteLogMethod);
+            // This style(up) or this style (bottom)
+            log += WrieUnLogMethod;
+
+            var result = log("Hello");
+
+            Assert.Equal("olleH", result);
+            Assert.Equal(2, count);
+        }
+
+        string WriteLogMethod(string message)
+        {
+            count++;    
+            return message;
+        }
+
+        string WrieUnLogMethod(string message)
+        {
+            count++;    
+            char[] cArray = message.ToCharArray();
+            string reverse = String.Empty;
+            for (int i = cArray.Length - 1; i > -1; i--)
+            {
+                reverse += cArray[i];
+            }
+
+            return reverse;
+        }
+
+
         //[Fact]
         //public void Test1()
         //{
@@ -118,9 +158,9 @@ namespace GradeBook.Tests
         //    Assert.Equal("Book 2", book2.Name);
         //}
 
-        private Book GetBook(string name)
+        private InMemoryBook GetBook(string name)
         {
-            return new Book(name);
+            return new InMemoryBook(name);
         }
     }
 }

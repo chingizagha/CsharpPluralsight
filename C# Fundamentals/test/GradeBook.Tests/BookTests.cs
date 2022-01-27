@@ -9,7 +9,7 @@ namespace GradeBook.Tests
         [Fact]
         public void BookSwitch()
         {
-            var book = new Book();
+            var book = new InMemoryBook();
 
             book.AddGrade(55);
 
