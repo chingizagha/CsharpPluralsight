@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd9ce96b-79ec-483f-b2e9-ccc851bc2321": {
+      "ProjectGuid": "bd9ce96b-79ec-483f-b2e9-ccc851bc2321",
+      "DisplayName": "MyProgram",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
