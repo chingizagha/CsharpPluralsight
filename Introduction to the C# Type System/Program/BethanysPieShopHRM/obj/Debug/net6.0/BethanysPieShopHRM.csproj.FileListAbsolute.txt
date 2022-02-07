@@ -1,0 +1,15 @@
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.exe
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.deps.json
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.runtimeconfig.json
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\bin\Debug\net6.0\ref\BethanysPieShopHRM.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\bin\Debug\net6.0\BethanysPieShopHRM.pdb
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\ref\BethanysPieShopHRM.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.pdb
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\Program\BethanysPieShopHRM\obj\Debug\net6.0\BethanysPieShopHRM.genruntimeconfig.cache
