@@ -7,11 +7,26 @@ namespace BethanysPieShopHRM
     {
         static void Main(string[] args)
         {
-
-
-            var num = Calculate(a: 5, b: 6);
-            Console.WriteLine(num);
-            static int Calculate(int a, int b) => a + b;
+            int a = 5;
+            int b = a;
+            b += 5;
+            Console.WriteLine(a);
+            Console.WriteLine(b);
         }
+
+        private static void UsingStruct()
+        {
+            Employee employee;
+            employee.Name = "Cingiz";
+        }
+    }
+
+    
+
+
+    struct Employee
+    {
+        public string Name;
+            
     }
 }

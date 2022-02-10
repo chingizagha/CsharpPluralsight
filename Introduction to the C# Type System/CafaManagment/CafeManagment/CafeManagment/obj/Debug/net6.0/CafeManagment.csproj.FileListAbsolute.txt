@@ -1,0 +1,15 @@
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\bin\Debug\net6.0\CafeManagment.exe
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\bin\Debug\net6.0\CafeManagment.deps.json
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\bin\Debug\net6.0\CafeManagment.runtimeconfig.json
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\bin\Debug\net6.0\CafeManagment.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\bin\Debug\net6.0\ref\CafeManagment.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\bin\Debug\net6.0\CafeManagment.pdb
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\ref\CafeManagment.dll
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.pdb
+C:\Users\cingi\Desktop\Pluralsight\Introduction to the C# Type System\CafaManagment\CafeManagment\CafeManagment\obj\Debug\net6.0\CafeManagment.genruntimeconfig.cache
