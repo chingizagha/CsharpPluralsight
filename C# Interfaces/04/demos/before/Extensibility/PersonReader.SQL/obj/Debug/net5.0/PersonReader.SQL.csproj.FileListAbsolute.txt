@@ -1,0 +1,15 @@
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.deps.json
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\bin\Debug\net5.0\ref\PersonReader.SQL.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.SQL.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.csproj.CopyComplete
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\ref\PersonReader.SQL.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.SQL\obj\Debug\net5.0\PersonReader.SQL.pdb

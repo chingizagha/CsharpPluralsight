@@ -1,0 +1,11 @@
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.deps.json
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\ref\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\ref\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.pdb

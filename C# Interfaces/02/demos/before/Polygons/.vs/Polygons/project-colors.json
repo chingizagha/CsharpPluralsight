@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4d57b94-5054-4739-afd5-ffadfe8f7e65": {
+      "ProjectGuid": "f4d57b94-5054-4739-afd5-ffadfe8f7e65",
+      "DisplayName": "Polygons.Library",
+      "ColorIndex": 0
+    },
+    "98abdb9b-74ce-4fd3-a18c-e82ef82a0e13": {
+      "ProjectGuid": "98abdb9b-74ce-4fd3-a18c-e82ef82a0e13",
+      "DisplayName": "Polygons",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

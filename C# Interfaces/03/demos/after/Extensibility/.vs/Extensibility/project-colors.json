@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92454235-3abd-4d1f-8b85-b212a2d96af1": {
+      "ProjectGuid": "92454235-3abd-4d1f-8b85-b212a2d96af1",
+      "DisplayName": "PeopleViewer",
+      "ColorIndex": 0
+    },
+    "a6bb2f8c-dbcb-487a-a6d3-a3cb07779ab2": {
+      "ProjectGuid": "a6bb2f8c-dbcb-487a-a6d3-a3cb07779ab2",
+      "DisplayName": "PersonReader.Factory",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

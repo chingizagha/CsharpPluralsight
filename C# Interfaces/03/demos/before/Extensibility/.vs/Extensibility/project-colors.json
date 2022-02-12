@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cbbf8fd-7c39-41e9-b6d8-66fc50590430": {
+      "ProjectGuid": "8cbbf8fd-7c39-41e9-b6d8-66fc50590430",
+      "DisplayName": "PersonReader.Service",
+      "ColorIndex": 0
+    },
+    "92454235-3abd-4d1f-8b85-b212a2d96af1": {
+      "ProjectGuid": "92454235-3abd-4d1f-8b85-b212a2d96af1",
+      "DisplayName": "PeopleViewer",
+      "ColorIndex": 1
+    },
+    "d9161871-8793-4a4c-855c-8f1916b33f99": {
+      "ProjectGuid": "d9161871-8793-4a4c-855c-8f1916b33f99",
+      "DisplayName": "People.Service",
+      "ColorIndex": 2
+    },
+    "a765e7f9-a6c2-44ed-a52c-63ce1e53daba": {
+      "ProjectGuid": "a765e7f9-a6c2-44ed-a52c-63ce1e53daba",
+      "DisplayName": "PersonReader.Interface",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

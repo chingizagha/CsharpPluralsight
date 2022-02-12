@@ -1,0 +1,15 @@
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.deps.json
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\bin\Debug\net5.0\ref\PersonReader.Service.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\bin\Debug\net5.0\PersonReader.Service.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.csproj.CopyComplete
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\ref\PersonReader.Service.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.Service\obj\Debug\net5.0\PersonReader.Service.pdb

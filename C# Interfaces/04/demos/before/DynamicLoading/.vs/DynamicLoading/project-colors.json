@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c02b6db8-fb4e-4058-9d74-5a04d0900045": {
+      "ProjectGuid": "c02b6db8-fb4e-4058-9d74-5a04d0900045",
+      "DisplayName": "PersonReader.Factory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

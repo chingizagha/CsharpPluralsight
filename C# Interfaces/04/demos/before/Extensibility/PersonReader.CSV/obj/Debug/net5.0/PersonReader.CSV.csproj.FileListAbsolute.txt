@@ -1,0 +1,15 @@
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.deps.json
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\bin\Debug\net5.0\ref\PersonReader.CSV.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\bin\Debug\net5.0\PersonReader.CSV.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.csproj.CopyComplete
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\ref\PersonReader.CSV.dll
+C:\Users\cingi\Desktop\Pluralsight\C# Interfaces\04\demos\before\Extensibility\PersonReader.CSV\obj\Debug\net5.0\PersonReader.CSV.pdb
