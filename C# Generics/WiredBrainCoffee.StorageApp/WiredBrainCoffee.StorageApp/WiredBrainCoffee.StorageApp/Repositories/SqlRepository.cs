@@ -5,6 +5,8 @@ using WiredBrainCoffee.StorageApp.Entities;
 
 namespace WiredBrainCoffee.StorageApp.Repositories
 {
+    //public delegate void ItemAdded<T>(T item);
+
     public class SqlRepository<T> : IRepository<T> where T : class, IEntity
     {
         private readonly DbContext dbContext;
@@ -15,6 +17,8 @@ namespace WiredBrainCoffee.StorageApp.Repositories
             this.dbContext = dbContext;
             dbSet = dbContext.Set<T>();
         }
+
+        public event EventHandler<T>? itemAdded;
 
         public IEnumerable<T> GetAll()
         {
@@ -29,6 +33,7 @@ namespace WiredBrainCoffee.StorageApp.Repositories
         public void Add(T item)
         {
             dbSet.Add(item);
+            itemAdded?.Invoke(this, item);
         }
         public void Save()
         {
