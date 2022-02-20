@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cc0006c-a1a8-4c2b-917f-83bd62c0d277": {
+      "ProjectGuid": "1cc0006c-a1a8-4c2b-917f-83bd62c0d277",
+      "DisplayName": "WiredBrainCoffee.StackApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
