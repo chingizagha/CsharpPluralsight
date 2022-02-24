@@ -18,6 +18,7 @@ namespace Pluralsight.ArraysCollections.Demos
 				new BusRoute(555, "Lancaster", "Keswick")
 			};
 
+
 			foreach (BusRoute route in routes)
 				Console.WriteLine(route);
 		}

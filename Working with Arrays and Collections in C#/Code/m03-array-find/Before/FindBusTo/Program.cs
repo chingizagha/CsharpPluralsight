@@ -30,4 +30,6 @@ namespace Pluralsight.ArraysCollections.Demos
 			return null;
 		}
 	}
+
+	class Route : Array { }
 }
