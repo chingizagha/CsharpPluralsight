@@ -1,0 +1,16 @@
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\FindBusTo.exe
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\FindBusTo.deps.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\FindBusTo.runtimeconfig.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\FindBusTo.runtimeconfig.dev.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\FindBusTo.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\ref\FindBusTo.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\bin\Debug\net5.0\FindBusTo.pdb
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\ref\FindBusTo.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.pdb
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m03-array-find\Before\FindBusTo\obj\Debug\net5.0\FindBusTo.genruntimeconfig.cache

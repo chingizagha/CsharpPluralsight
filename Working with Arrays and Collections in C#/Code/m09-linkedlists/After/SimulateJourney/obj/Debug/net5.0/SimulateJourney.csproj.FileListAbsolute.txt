@@ -1,0 +1,16 @@
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.exe
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.deps.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.runtimeconfig.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.runtimeconfig.dev.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\ref\SimulateJourney.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\bin\Debug\net5.0\SimulateJourney.pdb
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\ref\SimulateJourney.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.pdb
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m09-linkedlists\After\SimulateJourney\obj\Debug\net5.0\SimulateJourney.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\WhichBus.exe
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\WhichBus.deps.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\WhichBus.runtimeconfig.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\WhichBus.runtimeconfig.dev.json
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\WhichBus.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\ref\WhichBus.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\bin\Debug\net5.0\WhichBus.pdb
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.csproj.AssemblyReference.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.AssemblyInfoInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.AssemblyInfo.cs
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.csproj.CoreCompileInputs.cache
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\ref\WhichBus.dll
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.pdb
+C:\Users\cingi\Desktop\Pluralsight\Working with Arrays and Collections in C#\Code\m05-dictionary\Before\WhichBus\obj\Debug\net5.0\WhichBus.genruntimeconfig.cache
