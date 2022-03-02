@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75bd4e14-da83-4884-b716-f0f91ad7bba2": {
+      "ProjectGuid": "75bd4e14-da83-4884-b716-f0f91ad7bba2",
+      "DisplayName": "ExtensionMethods.Library",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
