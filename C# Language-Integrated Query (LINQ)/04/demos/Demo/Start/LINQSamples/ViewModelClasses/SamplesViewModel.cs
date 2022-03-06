@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using LINQSamples.RepositoryClasses;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace LINQSamples
@@ -29,11 +30,11 @@ namespace LINQSamples
 
       if (UseQuerySyntax) {
         // Query Syntax
-        
+        Products = (from prod in Products where prod.Name.StartsWith(search) select prod).ToList();
       }
       else {
-        // Method Syntax
-       
+                // Method Syntax
+                Products = Products.Where(prod => prod.Name.StartsWith(search)).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -50,12 +51,12 @@ namespace LINQSamples
       decimal cost = 100;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                Products = (from prod in Products where prod.Name.StartsWith(search) && prod.StandardCost > cost select prod).ToList();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                Products = Products.Where(prod => prod.Name.StartsWith(search) && prod.StandardCost > cost).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -71,12 +72,12 @@ namespace LINQSamples
       string search = "Red";
 
       if (UseQuerySyntax) {
-        // Query Syntax
-       
+                // Query Syntax
+                Products = (from prod in Products select prod).ByColor(search).ToList();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                Products = Products.ByColor(search).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -95,11 +96,13 @@ namespace LINQSamples
 
       try {
         if (UseQuerySyntax) {
-          // Query Syntax
+                    // Query Syntax
+                    value = (from prod in Products select prod).First(prod => prod.Color == search);
           
         }
         else {
-          // Method Syntax
+                    // Method Syntax
+                    value = Products.First(prod => prod.Color == search);
           
         }
 
@@ -125,11 +128,11 @@ namespace LINQSamples
 
       if (UseQuerySyntax) {
         // Query Syntax
-       
+        value = (from prod in Products select prod).FirstOrDefault(prod => prod.Color == search);
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.FirstOrDefault(prod => prod.Color == search);
       }
 
       if (value == null) {
@@ -155,12 +158,12 @@ namespace LINQSamples
 
       try {
         if (UseQuerySyntax) {
-          // Query Syntax
-          
+                    // Query Syntax
+                    value = (from prod in Products select prod).Last(prod => prod.Color == search);
         }
         else {
-          // Method Syntax
-          
+                    // Method Syntax
+                    value = Products.Last(prod => prod.Color == search);
         }
 
         ResultText = $"Found: {value}";
@@ -184,12 +187,12 @@ namespace LINQSamples
       Product value = null;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod).LastOrDefault(prod => prod.Color == search);
       }
       else {
         // Method Syntax
-
+        value = Products.LastOrDefault(prod => prod.Color == search);
       }
 
       if (value == null) {
@@ -215,12 +218,12 @@ namespace LINQSamples
 
       try {
         if (UseQuerySyntax) {
-          // Query Syntax
-         
+                    // Query Syntax
+                    value = (from prod in Products select prod).Single(prod => prod.ProductID == search);
         }
         else {
-          // Method Syntax
-          
+                    // Method Syntax
+                    value = Products.Single(prod => prod.ProductID == search);
         }
 
         ResultText = $"Found: {value}";
@@ -245,12 +248,12 @@ namespace LINQSamples
 
       try {
         if (UseQuerySyntax) {
-          // Query Syntax
-
+                    // Query Syntax
+                    value = (from prod in Products select prod).SingleOrDefault(prod => prod.ProductID == search);
         }
         else {
           // Method Syntax
-          
+          value = Products.SingleOrDefault(prod => prod.ProductID == search);
         }
 
         if (value == null) {

@@ -32,11 +32,14 @@ namespace LINQSamples
     public void ForEach()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                Products = (from prod in Products
+                            let tmp = prod.NameLength = prod.Name.Length
+                            select prod).ToList();
       }
       else {
-        // Method Syntax
+                // Method Syntax    
+                Products.ForEach(prod => prod.NameLength = prod.Name.Length);
 
       }
 
@@ -55,10 +58,11 @@ namespace LINQSamples
     {
       if (UseQuerySyntax) {
         // Query Syntax
-
+        Products = (from prod in Products let tmp = prod.TotalSales = SalesForProduct(prod) select prod).ToList();
       }
       else {
-        // Method Syntax
+                // Method Syntax
+                Products.ForEach(prod => prod.TotalSales = SalesForProduct(prod));
 
       }
 
