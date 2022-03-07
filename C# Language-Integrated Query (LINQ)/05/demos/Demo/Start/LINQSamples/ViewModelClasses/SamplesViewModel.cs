@@ -88,11 +88,14 @@ namespace LINQSamples
     public void Take()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
+                // Query Syntax
+                Products = (from prod in Products orderby prod.Name select prod).Take(5).ToList();
 
       }
       else {
-        // Method Syntax
+                // Method Syntax
+                Products = Products.OrderBy(prod => prod.Name).Take(5).ToList();
+            
 
       }
 
@@ -107,11 +110,13 @@ namespace LINQSamples
     public void TakeWhile()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
+                // Query Syntax
+                Products = (from prod in Products orderby prod.Name select prod).TakeWhile(prod => prod.Name.StartsWith("A")).ToList();
 
       }
       else {
-        // Method Syntax
+                // Method Syntax
+                Products = Products.OrderBy(prod => prod.Name).TakeWhile(prod => prod.Name.StartsWith("A")).ToList();
 
       }
 
@@ -126,11 +131,12 @@ namespace LINQSamples
     public void Skip()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                Products = (from prod in Products orderby prod.Name select prod).Skip(20).ToList();
       }
       else {
-        // Method Syntax
+                // Method Syntax
+                Products = Products.OrderBy(prod => prod.Name).Skip(20).ToList();
 
       }
 
@@ -145,12 +151,12 @@ namespace LINQSamples
     public void SkipWhile()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                Products = (from prod in Products orderby prod.Name select prod).SkipWhile(prod => prod.Name.StartsWith("A")).ToList();
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                Products = Products.OrderBy(prod => prod.Name).SkipWhile(prod => prod.Name.StartsWith("A")).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -167,12 +173,12 @@ namespace LINQSamples
       List<string> colors = new List<string>();
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                colors = (from prod in Products select prod.Color).Distinct().ToList();
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                colors = Products.Select(prod => prod.Color).Distinct().ToList();
       }
 
       // Build string of Distinct Colors

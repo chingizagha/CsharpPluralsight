@@ -34,12 +34,12 @@ namespace LINQSamples
       List<int> list2 = new List<int> { 1, 2, 3, 4, 5 };
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                value = (from num in list1 select num).SequenceEqual(list2);
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = list1.SequenceEqual(list2);
       }
 
       if (value) {
@@ -73,12 +73,12 @@ namespace LINQSamples
       };
 
       if (UseQuerySyntax) {
-        // Query Syntax
-       
+                // Query Syntax
+                value = (from prod in list1 select prod).SequenceEqual(list2);
       }
       else {
-        // Method Syntax
-       
+                // Method Syntax
+                value = list1.SequenceEqual(list2);
       }
 
       if (value) {
@@ -110,12 +110,12 @@ namespace LINQSamples
       list1.RemoveAt(0);
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                value = (from prod in list1 select prod).SequenceEqual(list2, pc);
       }
       else {
-        // Method Syntax
-       
+                // Method Syntax
+                value = list1.SequenceEqual(list2, pc);
       }
 
       if (value) {
@@ -143,12 +143,12 @@ namespace LINQSamples
       List<int> list2 = new List<int> { 3, 4, 5 };
 
       if (UseQuerySyntax) {
-        // Query Syntax
-       
+                // Query Syntax
+                exceptions = (from num in list1 select num).Except(list2).ToList();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                exceptions = list1.Except(list2).ToList();
       }
 
       ResultText = string.Empty;
@@ -178,12 +178,12 @@ namespace LINQSamples
       list2.RemoveAll(prod => prod.Color == "Black");
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                Products = (from prod in list1 select prod).Except(list2, pc).ToList();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                Products = list1.Except(list2, pc).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -208,12 +208,12 @@ namespace LINQSamples
       list2.RemoveAll(prod => prod.Color == "Red");
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                Products = (from prod in list2 select prod).Intersect(list2, pc).ToList();
       }
       else {
-        // Method Syntax
-       
+                // Method Syntax
+                Products = list1.Intersect(list2, pc).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -234,12 +234,12 @@ namespace LINQSamples
       List<Product> list2 = ProductRepository.GetAll();
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                Products = (from prod in list1 select prod).Union(list2, pc).OrderBy(prod => prod.Name).ToList();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                Products = list1.Union(list2, pc).OrderBy(prod => prod.Name).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -259,12 +259,12 @@ namespace LINQSamples
       List<Product> list2 = ProductRepository.GetAll();
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                Products = (from prod in list1 select prod).Concat(list2).OrderBy(prod => prod.Name).ToList();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                Products = list1.Concat(list2).OrderBy(prod => prod.Name).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";

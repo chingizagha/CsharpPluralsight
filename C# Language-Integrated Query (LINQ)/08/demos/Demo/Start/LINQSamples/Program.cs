@@ -14,7 +14,7 @@ namespace LINQSamples
       };
 
       // Call a sample method
-      vm.InnerJoin();
+      vm.GroupJoin();
 
       // Display Result Text
       Console.WriteLine(vm.ResultText);

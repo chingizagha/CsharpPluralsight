@@ -33,11 +33,12 @@ namespace LINQSamples
       IEnumerable<IGrouping<string, Product>> sizeGroup = null;
 
       if (UseQuerySyntax) {
-        // Query syntax
-        
+                // Query syntax
+                sizeGroup = (from prod in Products orderby prod.Size group prod by prod.Size);
       }
       else {
-        // Method syntax
+                // Method syntax
+                sizeGroup = Products.OrderBy(prod => prod.Size).GroupBy(prod => prod.Size);
         
       }
 
@@ -142,12 +143,16 @@ namespace LINQSamples
       IEnumerable<IGrouping<string, Product>> sizeGroup = null;
 
       if (UseQuerySyntax) {
-        // Query syntax
+                // Query syntax
+                sizeGroup = (from prod in Products
+                             group prod by prod.Size into sizes
+                             where sizes.Count() > 2
+                             select sizes);
        
       }
       else {
-        // Method syntax
-        
+                // Method syntax
+                sizeGroup = Products.GroupBy(prod => prod.Size).Where(sizes => sizes.Count() > 2).Select(sizes => sizes);
       }
 
       // Loop through each size
@@ -179,12 +184,34 @@ namespace LINQSamples
 
       // Get all products for a sales order id
       if (UseQuerySyntax) {
-        // Query syntax
+                // Query syntax
+                salesGroup = (from sale in Sales
+                              group sale by sale.SalesOrderID
+                              into sales
+                              select new SaleProducts
+                              {
+                                  SalesOrderID = sales.Key,
+                                  Products =
+                                  (
+                                  from prod in Products
+                                  join sale in Sales
+                                  on prod.ProductID equals sale.ProductID
+                                  where sale.SalesOrderID == sales.Key
+                                  select prod).ToList()
+                              });
        
       }
       else {
-        // Method syntax
-       
+                // Method syntax
+                salesGroup = Sales.GroupBy(sale => sale.SalesOrderID).Select(sales => new SaleProducts
+                {
+                    SalesOrderID = sales.Key,
+                    Products = Products.Join(
+                        sales,
+                        prod => prod.ProductID,
+                        sale => sale.ProductID,
+                        (prod, sale) => prod).ToList()
+                });
       }
 
       // Loop through each sales order

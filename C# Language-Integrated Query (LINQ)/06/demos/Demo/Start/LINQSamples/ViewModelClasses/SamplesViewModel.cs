@@ -30,12 +30,13 @@ namespace LINQSamples
       bool value = true;
 
       if (UseQuerySyntax) {
-        // Query Syntax
+                // Query Syntax
+                value = (from prod in Products select prod).Any(prod => prod.Name.Contains(search));
 
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                value = Products.Any(prod => prod.Name.Contains(search));
       }
 
       ResultText = $"Do any Name properties contain an '{search}'? {value}";
@@ -55,12 +56,12 @@ namespace LINQSamples
       bool value = true;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod).All(prod => prod.Name.Contains(search));
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                value = Products.All(prod => prod.Name.Contains(search));
       }
 
       ResultText = $"Do all Name properties contain a '{search}'? {value}";
@@ -80,12 +81,12 @@ namespace LINQSamples
       List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from num in numbers select num).Contains(3);
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                value = numbers.Contains(3);
       }
 
       ResultText = $"Is the number in collection? {value}";
@@ -107,12 +108,12 @@ namespace LINQSamples
       Product prodToFind = new Product { ProductID = search };
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod).Contains(prodToFind, pc);
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                value = Products.Contains(prodToFind, pc);
       }
 
       ResultText = $"Product ID: {search} is in Products Collection = {value}";

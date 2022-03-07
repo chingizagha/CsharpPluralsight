@@ -32,12 +32,12 @@ namespace LINQSamples
       int value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-       
+                // Query Syntax
+                value = (from prod in Products select prod).Count();
       }
       else {
         // Method Syntax (No LINQ)
-        
+        value = Products.Count();
       }
 
       ResultText = $"Total Products = {value}";
@@ -54,12 +54,12 @@ namespace LINQSamples
       int value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                value = (from prod in Products select prod).Count(prod => prod.Color == search); 
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.Count(prod => prod.Color == search);
       }
 
       ResultText = $"Total Products with a color of 'Red' = {value}";
@@ -75,12 +75,12 @@ namespace LINQSamples
       decimal? value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod.ListPrice).Sum();
        }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.Sum(prod => prod.ListPrice);
       }
 
       if (value.HasValue) {
@@ -101,12 +101,12 @@ namespace LINQSamples
       decimal? value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod.ListPrice).Min();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.Min(prod => prod.ListPrice);
       }
 
       if (value.HasValue) {
@@ -127,12 +127,12 @@ namespace LINQSamples
       decimal? value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod.ListPrice).Max();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.Max(prod => prod.ListPrice);
       }
 
       if (value.HasValue) {
@@ -153,12 +153,12 @@ namespace LINQSamples
       decimal? value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod.ListPrice).Average();
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.Average(prod => prod.ListPrice);
       }
 
       if (value.HasValue) {
@@ -179,12 +179,12 @@ namespace LINQSamples
       decimal? value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                value = (from prod in Products select prod).Aggregate(0M, (sum, prod) => sum += prod.ListPrice);
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Products.Aggregate(0M, (sum, prod) => sum += prod.ListPrice);
       }
 
       if (value.HasValue) {
@@ -205,12 +205,12 @@ namespace LINQSamples
       decimal? value = 0;
 
       if (UseQuerySyntax) {
-        // Query Syntax
-        
+                // Query Syntax
+                value = (from sale in Sales select sale).Aggregate(0M, (sum, sale) => sum += (sale.OrderQty * sale.UnitPrice));
       }
       else {
-        // Method Syntax
-        
+                // Method Syntax
+                value = Sales.Aggregate(0M, (sum, sale) => sum += (sale.OrderQty * sale.UnitPrice));
       }
 
       if (value.HasValue) {
