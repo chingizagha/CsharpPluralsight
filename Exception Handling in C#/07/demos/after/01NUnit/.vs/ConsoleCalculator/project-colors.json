@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fc14975-cad2-42d8-988f-378be63908f1": {
+      "ProjectGuid": "5fc14975-cad2-42d8-988f-378be63908f1",
+      "DisplayName": "ConsoleCalculator.Tests.NUnit",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

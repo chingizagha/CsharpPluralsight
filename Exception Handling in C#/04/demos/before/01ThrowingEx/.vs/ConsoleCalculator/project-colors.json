@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a92bb1ba-7761-49b5-b82e-07066f733f03": {
+      "ProjectGuid": "a92bb1ba-7761-49b5-b82e-07066f733f03",
+      "DisplayName": "ConsoleCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
