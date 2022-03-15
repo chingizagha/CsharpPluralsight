@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\demos",
+    "\\demos\\demo2",
+    "\\demos\\demo2\\A Tale of Two Cities",
+    "\\demos\\src",
+    "\\demos\\src\\docker",
+    "\\demos\\src\\docker\\sql-server",
+    "\\demos\\src\\docker\\word-count-db",
+    "\\demos\\src\\SqlConsumer",
+    "\\demos\\src\\SqlConsumer\\SqlConsumer.Tests",
+    "\\demos\\src\\WordCounter"
+  ],
+  "SelectedNode": "\\demos\\src\\WordCounter\\WordCounter.sln",
+  "PreviewInSolutionExplorer": false
+}

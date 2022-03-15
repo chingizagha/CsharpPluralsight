@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b81a930d-e2e4-4004-98a8-92e525e9336e": {
+      "ProjectGuid": "b81a930d-e2e4-4004-98a8-92e525e9336e",
+      "DisplayName": "WordCounter.App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

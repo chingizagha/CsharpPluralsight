@@ -260,7 +260,7 @@ namespace LINQSamples
 
       if (UseQuerySyntax) {
                 // Query Syntax
-                Products = (from prod in list1 select prod).Concat(list2).OrderBy(prod => prod.Name).ToList();
+                Products = (from prod in list1 select prod).Concat(list2).OrderBy(prod => prod.Name).ToDictionary();
       }
       else {
                 // Method Syntax

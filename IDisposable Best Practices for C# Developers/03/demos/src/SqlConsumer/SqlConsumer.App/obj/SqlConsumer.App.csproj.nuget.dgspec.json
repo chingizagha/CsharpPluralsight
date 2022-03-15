@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.App\\SqlConsumer.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.App\\SqlConsumer.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.App\\SqlConsumer.App.csproj",
+        "projectName": "SqlConsumer.App",
+        "projectPath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.App\\SqlConsumer.App.csproj",
+        "packagesPath": "C:\\Users\\cingi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cingi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.Core\\SqlConsumer.Core.csproj": {
+                "projectPath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.Core\\SqlConsumer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.Core\\SqlConsumer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.Core\\SqlConsumer.Core.csproj",
+        "projectName": "SqlConsumer.Core",
+        "projectPath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.Core\\SqlConsumer.Core.csproj",
+        "packagesPath": "C:\\Users\\cingi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\IDisposable Best Practices for C# Developers\\03\\demos\\src\\SqlConsumer\\SqlConsumer.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cingi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

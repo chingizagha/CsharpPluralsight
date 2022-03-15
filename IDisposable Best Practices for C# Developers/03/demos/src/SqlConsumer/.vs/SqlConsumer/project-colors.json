@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89519fdb-0447-4025-a995-a383f89e8bd9": {
+      "ProjectGuid": "89519fdb-0447-4025-a995-a383f89e8bd9",
+      "DisplayName": "SqlConsumer.Core",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

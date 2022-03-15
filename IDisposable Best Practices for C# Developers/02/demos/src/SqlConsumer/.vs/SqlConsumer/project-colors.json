@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7c6f34b-3fb7-4fff-a978-97a936b12245": {
+      "ProjectGuid": "b7c6f34b-3fb7-4fff-a978-97a936b12245",
+      "DisplayName": "SqlConsumer.Tests",
+      "ColorIndex": 0
+    },
+    "89519fdb-0447-4025-a995-a383f89e8bd9": {
+      "ProjectGuid": "89519fdb-0447-4025-a995-a383f89e8bd9",
+      "DisplayName": "SqlConsumer.Core",
+      "ColorIndex": 1
+    },
+    "07316955-0c05-4b2c-9e96-f3df1ca24fe7": {
+      "ProjectGuid": "07316955-0c05-4b2c-9e96-f3df1ca24fe7",
+      "DisplayName": "SqlConsumer.App",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
