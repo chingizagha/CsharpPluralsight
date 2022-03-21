@@ -10,11 +10,14 @@ namespace MyClassesTest
         [TestMethod]
         public void FileNameDoesExist()
         {
+            //Arrange
             FileProcess fp = new FileProcess();
             bool fromCall;
 
+            //Act
             fromCall = fp.FileExists(@"C:\Windows\Regedit.exe");
 
+            //Assert
             Assert.IsTrue(fromCall);
         }
 

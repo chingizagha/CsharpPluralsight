@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2189d6dd-7626-4aa4-8a83-489bdd7e04c9": {
+      "ProjectGuid": "2189d6dd-7626-4aa4-8a83-489bdd7e04c9",
+      "DisplayName": "MyClasses",
+      "ColorIndex": 0
+    },
+    "400653b3-c340-49d8-abb3-b9cd11f4890f": {
+      "ProjectGuid": "400653b3-c340-49d8-abb3-b9cd11f4890f",
+      "DisplayName": "MyClassesTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
