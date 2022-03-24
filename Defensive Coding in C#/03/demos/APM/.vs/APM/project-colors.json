@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d10d82e-2bd9-4626-95f4-5979d5f0a66f": {
+      "ProjectGuid": "7d10d82e-2bd9-4626-95f4-5979d5f0a66f",
+      "DisplayName": "APM.SL",
+      "ColorIndex": 0
+    },
+    "c332bd2c-d120-42f9-90d8-106afad4c1ce": {
+      "ProjectGuid": "c332bd2c-d120-42f9-90d8-106afad4c1ce",
+      "DisplayName": "APM.SL.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

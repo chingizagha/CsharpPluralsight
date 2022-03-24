@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyOwOcpRUvP5NIAlAYL2HaKfjO9OaNu0XFfIheICem6Z2ZzQ1WagpTX8xFp//MJYj0fJTT6nt9viiL+FmEhwKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\Defensive Coding in C#\\05\\demos\\APM\\APM.Utilities\\APM.Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
