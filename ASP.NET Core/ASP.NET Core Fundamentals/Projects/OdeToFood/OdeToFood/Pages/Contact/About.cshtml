@@ -1,0 +1,33 @@
+﻿@page
+@model OdeToFood.Pages.Contact.AboutModel
+@{
+}
+
+<h1>Hi</h1>
+
+
+<ul>
+    @foreach(var restaurant in @Model.Restaurants)
+    {
+        <li>@restaurant.Id</li>
+        <li>@restaurant.Name</li>
+        <li>@restaurant.Location</li>
+        <li>@restaurant.Cuisine</li>
+    }
+</ul>
+
+
+<table class = "table">
+    @foreach(var restaurant in @Model.Restaurants)
+    {
+        <tr>
+            <td>@restaurant.Id</td>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Cuisine</td>
+            <td>@restaurant.Location</td>
+        </tr>
+    }
+</table>
+
+
+<div>@Model.Message</div>
