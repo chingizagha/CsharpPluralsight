@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood", "OdeToFood\OdeT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood.Core", "OdeToFood.NetCore\OdeToFood.Core.csproj", "{72D4EB02-CE40-421A-8ED7-66DE151829AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Data", "OdeToFood.Data\OdeToFood.Data.csproj", "{B65071C2-1C53-4CF6-9952-34FE321F3BE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood.Data", "OdeToFood.Data\OdeToFood.Data.csproj", "{B65071C2-1C53-4CF6-9952-34FE321F3BE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,17 +5,20 @@ using OdeToFood.Core;
 using OdeToFood.Data;
 using System.Collections.Generic;
 
-namespace OdeToFood.Pages.Contact
+namespace OdeToFood.Pages.Restaurants
 {
-    public class AboutModel : PageModel
+    public class ListModel : PageModel
     {
         private readonly IConfiguration config;
         private readonly IRestaurantData restaurantData;
 
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
+
         public IEnumerable<Restaurant> Restaurants;
         public string Message { get; set; }
 
-        public AboutModel(IConfiguration config, IRestaurantData restaurantData)
+        public ListModel(IConfiguration config, IRestaurantData restaurantData)
         {
             this.config = config;
             this.restaurantData = restaurantData;
@@ -23,7 +26,7 @@ namespace OdeToFood.Pages.Contact
         public void OnGet()
         {
             Message = "Hello";
-            Restaurants = restaurantData.GetAll();
+            Restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
     }
 }

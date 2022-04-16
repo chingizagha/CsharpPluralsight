@@ -37,9 +37,10 @@ C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projec
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\ref\OdeToFood.dll
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.CopyComplete
-C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Contact\About.cshtml.g.cs
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.Core.dll
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.Data.dll
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.Data.pdb
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.Core.pdb
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Projects\Project.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\Detail.cshtml.g.cs
