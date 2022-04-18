@@ -44,3 +44,5 @@ C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projec
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Projects\Project.cshtml.g.cs
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\List.cshtml.g.cs
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\Edit.cshtml.g.cs
