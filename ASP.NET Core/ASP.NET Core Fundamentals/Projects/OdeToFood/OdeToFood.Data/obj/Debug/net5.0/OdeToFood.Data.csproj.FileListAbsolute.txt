@@ -13,3 +13,6 @@ C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projec
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\refint\OdeToFood.Data.dll
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.pdb
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\ref\OdeToFood.Data.dll
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.runtimeconfig.json
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood.Data\bin\Debug\net5.0\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood.Data\obj\Debug\net5.0\OdeToFood.Data.genruntimeconfig.cache
