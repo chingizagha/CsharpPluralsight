@@ -154,3 +154,4 @@ C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projec
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs

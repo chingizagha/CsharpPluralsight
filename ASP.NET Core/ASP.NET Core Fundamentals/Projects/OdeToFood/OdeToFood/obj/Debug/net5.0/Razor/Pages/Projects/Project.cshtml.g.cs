@@ -20,7 +20,7 @@ using OdeToFood;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"773e3458e3b1c81c18cc257fc272311284ab93ad", @"/Pages/Projects/Project.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4131f99e56e7ed69e62210f35a81d8b4678309ec", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"62898865c46c67d1f7360c9ef46f7c1981895c85", @"/Pages/_ViewImports.cshtml")]
     #nullable restore
     public class Pages_Projects_Project : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     #nullable disable
