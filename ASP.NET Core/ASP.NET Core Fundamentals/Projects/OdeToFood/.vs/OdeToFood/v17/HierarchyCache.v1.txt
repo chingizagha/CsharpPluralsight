@@ -4,9 +4,9 @@ i:{00000000-0000-0000-0000-000000000000}:OdeToFood.sln
 i:{00000000-0000-0000-0000-000000000000}:OdeToFood.Core
 i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood.netcore\bin\debug\net5.0\odetofood.core.dll
 ++Dependencies
-i:{72d4eb02-ce40-421a-8ed7-66de151829ae}:>489
-i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>488
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>800
+i:{72d4eb02-ce40-421a-8ed7-66de151829ae}:>698
+i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>697
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1369
 ++CuisineType.cs
 i:{72d4eb02-ce40-421a-8ed7-66de151829ae}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood.netcore\cuisinetype.cs
 ++Restaurant.cs
@@ -33,7 +33,7 @@ i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:c:\users\cingi\desktop\pluralsight\asp.
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\microsoft.netcore.app
 ++OdeToFood.Data
 i:{00000000-0000-0000-0000-000000000000}:OdeToFood.Data
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood.data\odetofood.data.csproj
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood.data\bin\debug\net5.0\odetofood.data.dll
 ++Migrations
 i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood.data\migrations\
 ++InMemoryRestaurantData.cs
@@ -60,72 +60,73 @@ i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:c:\users\cingi\desktop\pluralsight\asp.
 i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:c:\users\cingi\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 ++Microsoft.EntityFrameworkCore (5.0.16)
-i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>826
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>813
+i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>1400
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1385
 ++Microsoft.EntityFrameworkCore.Design (5.0.16)
-i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>828
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>815
+i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>1402
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1388
 ++Microsoft.EntityFrameworkCore.SqlServer (5.0.16)
-i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>827
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>814
+i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:>1401
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1386
 ++20220419131014_initialcreate.Designer.cs
 i:{b65071c2-1c53-4cf6-9952-34fe321f3be7}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood.data\migrations\20220419131014_initialcreate.designer.cs
 ++OdeToFood
 i:{00000000-0000-0000-0000-000000000000}:OdeToFood
 ++Connected Services 
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>801
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1370
+++Imports
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>701
 ++Properties
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\properties\
 ++launchSettings.json
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\properties\launchsettings.json
 ++wwwroot
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\
-++css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\css\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\css\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\
-++site.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\css\site.css
+++Api
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\api\
+++bin
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\
+++node_modules
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\
+++datatables.net
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\
 ++js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\js\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\js\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\js\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\js\
-++site.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\js\site.js
-++lib
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\unix\lib\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\lib\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\lib\
-++bootstrap
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\
-++dist
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\
-++LICENSE
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\license
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\
+++jquery.dataTables.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\js\jquery.datatables.js
+++jquery.dataTables.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\js\jquery.datatables.min.js
+++types
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\types\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\types\
+++License.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\license.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\license.txt
+++package.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\package.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\package.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\package.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\package.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\package.json
+++Readme.md
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\readme.md
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\readme.md
+++datatables.net-bs4
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\
 ++jquery
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\
-++jquery-validation
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\
-++jquery-validation-unobtrusive
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\
-++favicon.ico
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\favicon.ico
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\favicon.ico
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\
+++.package-lock.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\.package-lock.json
+++obj
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\
 ++Pages
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razordeclaration\pages\
-++Project.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\projects\project.cshtml
 ++Restaurants
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\
@@ -141,11 +142,17 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 ++Delete.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\delete.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\delete.cshtml
+++Delete.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\delete.cshtml.cs
 ++Detail.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\detail.cshtml
+++Detail.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\detail.cshtml.cs
 ++Edit.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\edit.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\edit.cshtml
+++Edit.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\edit.cshtml.cs
 ++Index.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\index.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\index.cshtml
@@ -155,11 +162,116 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\index.cshtml.cs
 ++List.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\list.cshtml
+++List.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\list.cshtml.cs
 ++NotFound.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\notfound.cshtml
+++NotFound.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\notfound.cshtml.cs
 ++Shared
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\
+++_ViewImports.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\_viewstart.cshtml
+++Error.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\error.cshtml
+++Error.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\error.cshtml.cs
+++Privacy.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\privacy.cshtml
+++Privacy.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\privacy.cshtml.cs
+++ViewComponents
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\viewcomponents\
+++Views
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\
+++appsettings.Development.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\appsettings.development.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\appsettings.development.json
+++appsettings.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\appsettings.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\appsettings.json
+++package-lock.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\package-lock.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\package-lock.json
+++Program.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\program.cs
+++Startup.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\startup.cs
+++No service dependencies discovered
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1371
+++npm
+++Sdk.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\css\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\css\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\
+++lib
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\unix\lib\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\lib\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\favicon.ico
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\favicon.ico
+++RestaurantsController.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\api\restaurantscontroller.cs
+++Debug
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\
+++types.d.ts
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\types\types.d.ts
+++images
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\
+++dist
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\
+++external
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\
+++src
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\
+++AUTHORS.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\authors.txt
+++bower.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\bower.json
+++LICENSE.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\license.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\license.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\license.txt
+++README.md
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\readme.md
+++OdeToFood.csproj.EntityFrameworkCore.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.entityframeworkcore.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.entityframeworkcore.targets
+++OdeToFood.csproj.nuget.dgspec.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.dgspec.json
+++OdeToFood.csproj.nuget.g.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.props
+++OdeToFood.csproj.nuget.g.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.targets
+++project.assets.json
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\project.assets.json
+++project.nuget.cache
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\project.nuget.cache
+++Project.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\projects\project.cshtml
+++Project.cshtml.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\projects\project.cshtml.cs
 ++Components
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\components\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\components\
@@ -167,65 +279,8 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\_layout.cshtml
 ++_ValidationScriptsPartial.cshtml
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\_validationscriptspartial.cshtml
-++_ViewImports.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\_viewimports.cshtml
-++_ViewStart.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\_viewstart.cshtml
-++Error.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\error.cshtml
-++Privacy.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\privacy.cshtml
-++ViewComponents
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\viewcomponents\
 ++RestaurantCountViewComponent.cs
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\viewcomponents\restaurantcountviewcomponent.cs
-++Views
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\
-++Create.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\create.cshtml
-++Details.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\details.cshtml
-++appsettings.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\appsettings.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\appsettings.json
-++Program.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\program.cs
-++Startup.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\startup.cs
-++No service dependencies discovered
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>802
-++LICENSE.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\license.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\license.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\license.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\license.txt
-++LICENSE.md
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\license.md
-++jquery.validate.unobtrusive.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-++Project.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\projects\project.cshtml.cs
-++Delete.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\delete.cshtml.cs
-++Detail.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\detail.cshtml.cs
-++Edit.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\edit.cshtml.cs
-++List.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\list.cshtml.cs
-++NotFound.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\restaurants\notfound.cshtml.cs
-++RestaurantCount
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\components\restaurantcount\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\components\restaurantcount\
-++Error.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\error.cshtml.cs
-++Privacy.cshtml.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\privacy.cshtml.cs
-++appsettings.Development.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\appsettings.development.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\appsettings.development.json
 ++Microsoft.AspNetCore.Analyzers
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
 ++Microsoft.AspNetCore.Components.Analyzers
@@ -238,97 +293,196 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\.nuget\packages\microsof
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
 ++Microsoft.AspNetCore.App
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\microsoft.aspnetcore.app
+++datatables.net-bs4 - not installed
 ++Microsoft.EntityFrameworkCore.Tools (5.0.16)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>913
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1389
 ++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>816
-++bootstrap.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-++bootstrap-grid.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-++bootstrap-reboot.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-++bootstrap.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-++jquery.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\jquery.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\jquery.js
-++additional-methods.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\additional-methods.js
-++jquery.validate.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-++jquery.validate.unobtrusive.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
-++Default.cshtml
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\components\restaurantcount\default.cshtml
-++bootstrap.css.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-++bootstrap.min.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-++bootstrap-grid.css.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-++bootstrap-grid.min.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-++bootstrap-reboot.css.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-++bootstrap-reboot.min.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-++bootstrap.bundle.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-++bootstrap.js.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-++bootstrap.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-++jquery.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\jquery.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.min.js
-++additional-methods.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-++jquery.validate.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-++bootstrap.min.css.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-++bootstrap-grid.min.css.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-++bootstrap-reboot.min.css.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-++bootstrap.bundle.js.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-++bootstrap.bundle.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-++bootstrap.min.js.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-++jquery.min.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\jquery.min.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.min.map
-++bootstrap.bundle.min.js.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-++NewFolder
-++Api
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\api\
-++RestaurantsController.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\api\restaurantscontroller.cs
-++package.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\package.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\package.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\package.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\package.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\package.json
-++npm
-++package-lock.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\package-lock.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\package-lock.json
-++bin
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\
-++Debug
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1390
+++OdeToCode.UseNodeModules (3.0.0)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1387
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++site.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\css\site.css
+++site.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\js\site.js
+++bootstrap
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\
+++jquery-validation
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\
 ++net5.0
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\
+++dataTables.bootstrap4.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\css\datatables.bootstrap4.css
+++dataTables.bootstrap4.min.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\css\datatables.bootstrap4.min.css
+++sort_asc.png
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_asc.png
+++sort_asc_disabled.png
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_asc_disabled.png
+++sort_both.png
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_both.png
+++sort_desc.png
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_desc.png
+++sort_desc_disabled.png
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_desc_disabled.png
+++dataTables.bootstrap4.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\js\datatables.bootstrap4.js
+++dataTables.bootstrap4.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\js\datatables.bootstrap4.min.js
+++dataTables.bootstrap4.d.ts
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\types\datatables.bootstrap4.d.ts
+++jquery.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\jquery.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.min.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery\dist\jquery.min.map
+++jquery.slim.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.slim.js
+++jquery.slim.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.slim.min.js
+++jquery.slim.min.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.slim.min.map
+++sizzle
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\
+++ajax
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\
+++attributes
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\attributes\
+++core
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core\
+++data
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\
+++deferred
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deferred\
+++deprecated
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deprecated\
+++effects
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\effects\
+++event
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\event\
+++exports
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\exports\
+++manipulation
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\
+++queue
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\queue\
+++traversing
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\
+++var
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\var\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core\var\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\var\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\
+++ajax.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax.js
+++attributes.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\attributes.js
+++callbacks.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\callbacks.js
+++core.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core.js
+++css.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css.js
+++data.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data.js
+++deferred.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deferred.js
+++deprecated.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deprecated.js
+++dimensions.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\dimensions.js
+++effects.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\effects.js
+++event.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\event.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deprecated\event.js
+++manipulation.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation.js
+++offset.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\offset.js
+++queue.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\queue.js
+++selector.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\selector.js
+++selector-native.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\selector-native.js
+++selector-sizzle.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\selector-sizzle.js
+++serialize.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\serialize.js
+++traversing.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing.js
+++wrap.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\wrap.js
+++RestaurantCount
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\components\restaurantcount\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\components\restaurantcount\
+++Create.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\create.cshtml
+++Details.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\views\restaurants\details.cshtml
+++Microsoft.Common.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++LICENSE
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\license
+++LICENSE.md
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 ++cs
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\
 ++de
@@ -419,6 +573,8 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\microsoft.visualstudio.web.codegenerators.mvc.dll
 ++Newtonsoft.Json.dll
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\newtonsoft.json.dll
+++OdeToCode.UseNodeModules.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\odetocode.usenodemodules.dll
 ++OdeToFood.Core.dll
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\odetofood.core.dll
 ++OdeToFood.Core.pdb
@@ -471,233 +627,6 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 ++System.Security.Cryptography.ProtectedData.dll
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\system.security.cryptography.protecteddata.dll
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
-++Microsoft.CodeAnalysis.CSharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
-++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
-++Microsoft.CodeAnalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.resources.dll
-++Microsoft.CodeAnalysis.Workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
-++unix
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\unix\
-++win
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\
-++win-arm
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\
-++win-arm64
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\
-++win-x64
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\
-++win-x86
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\
-++native
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\native\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\native\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\native\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\native\
-++netcoreapp3.1
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
-++netstandard2.0
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
-++Microsoft.Data.SqlClient.SNI.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
-++Microsoft.Data.SqlClient.SNI.pdb
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
-++dotnet-aspnet-codegenerator-design.exe
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-++node_modules
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\
-++datatables.net
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\
-++datatables.net-bs4
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\
-++.package-lock.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\.package-lock.json
-++types
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\types\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\types\
-++License.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\license.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\license.txt
-++Readme.md
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\readme.md
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\readme.md
-++images
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\
-++external
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\
-++src
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\
-++AUTHORS.txt
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\authors.txt
-++bower.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\bower.json
-++README.md
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\readme.md
-++jquery.dataTables.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\js\jquery.datatables.js
-++jquery.dataTables.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\js\jquery.datatables.min.js
-++types.d.ts
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net\types\types.d.ts
-++dataTables.bootstrap4.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\css\datatables.bootstrap4.css
-++dataTables.bootstrap4.min.css
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\css\datatables.bootstrap4.min.css
-++sort_asc.png
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_asc.png
-++sort_asc_disabled.png
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_asc_disabled.png
-++sort_both.png
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_both.png
-++sort_desc.png
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_desc.png
-++sort_desc_disabled.png
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\images\sort_desc_disabled.png
-++dataTables.bootstrap4.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\js\datatables.bootstrap4.js
-++dataTables.bootstrap4.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\js\datatables.bootstrap4.min.js
-++dataTables.bootstrap4.d.ts
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\datatables.net-bs4\types\datatables.bootstrap4.d.ts
-++jquery.slim.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.slim.js
-++jquery.slim.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.slim.min.js
-++jquery.slim.min.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\dist\jquery.slim.min.map
-++sizzle
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\
-++ajax
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\
-++attributes
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\attributes\
-++core
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core\
-++data
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\
-++deferred
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deferred\
-++deprecated
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deprecated\
-++effects
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\effects\
-++event
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\event\
-++exports
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\exports\
-++manipulation
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\
-++queue
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\queue\
-++traversing
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\
-++var
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\var\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core\var\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\var\
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\
-++ajax.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax.js
-++attributes.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\attributes.js
-++callbacks.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\callbacks.js
-++core.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core.js
-++css.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css.js
-++data.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data.js
-++deferred.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deferred.js
-++deprecated.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deprecated.js
-++dimensions.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\dimensions.js
-++effects.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\effects.js
-++event.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\event.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\deprecated\event.js
-++manipulation.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation.js
-++offset.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\offset.js
-++queue.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\queue.js
-++selector.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\selector.js
-++selector-native.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\selector-native.js
-++selector-sizzle.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\selector-sizzle.js
-++serialize.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\serialize.js
-++traversing.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing.js
-++wrap.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\wrap.js
 ++jsonp.js
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\jsonp.js
 ++load.js
@@ -829,65 +758,6 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\var\slice.js
 ++toString.js
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\var\tostring.js
-++sizzle.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\sizzle.js
-++sizzle.min.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\sizzle.min.js
-++sizzle.min.map
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\sizzle.min.map
-++location.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\location.js
-++nonce.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\nonce.js
-++rquery.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\rquery.js
-++rsingleTag.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core\var\rsingletag.js
-++cssExpand.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\cssexpand.js
-++getStyles.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\getstyles.js
-++isHiddenWithinTree.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\ishiddenwithintree.js
-++rboxStyle.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\rboxstyle.js
-++rnumnonpx.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\rnumnonpx.js
-++swap.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\swap.js
-++acceptData.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\acceptdata.js
-++dataPriv.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\datapriv.js
-++dataUser.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\datauser.js
-++rscriptType.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\var\rscripttype.js
-++rtagName.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\var\rtagname.js
-++dir.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\dir.js
-++rneedsContext.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\rneedscontext.js
-++siblings.js
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\siblings.js
-++obj
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\
-++OdeToFood.csproj.EntityFrameworkCore.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.entityframeworkcore.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.entityframeworkcore.targets
-++OdeToFood.csproj.nuget.dgspec.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.dgspec.json
-++OdeToFood.csproj.nuget.g.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.props
-++OdeToFood.csproj.nuget.g.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\odetofood.csproj.nuget.g.targets
-++project.assets.json
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\project.assets.json
-++project.nuget.cache
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\project.nuget.cache
 ++Razor
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\
 ++RazorDeclaration
@@ -940,97 +810,8 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\odetofood.taghelpers.output.cache
 ++project.razor.json
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\project.razor.json
-++OdeToFood.StaticWebAssets.Manifest.cache
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\staticwebassets\odetofood.staticwebassets.manifest.cache
-++_ViewImports.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\_viewimports.cshtml.g.cs
-++_ViewStart.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\_viewstart.cshtml.g.cs
-++Error.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\error.cshtml.g.cs
-++Index.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\index.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\index.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\index.cshtml.g.cs
-++Privacy.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\privacy.cshtml.g.cs
-++Project.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\projects\project.cshtml.g.cs
-++_Summary.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\_summary.cshtml.g.cs
-++ClientRestaurants.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\clientrestaurants.cshtml.g.cs
-++Delete.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\delete.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\delete.cshtml.g.cs
-++Detail.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\detail.cshtml.g.cs
-++Edit.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\edit.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\edit.cshtml.g.cs
-++List.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\list.cshtml.g.cs
-++NotFound.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\notfound.cshtml.g.cs
-++_Layout.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\_layout.cshtml.g.cs
-++_ValidationScriptsPartial.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\_validationscriptspartial.cshtml.g.cs
-++Create.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\create.cshtml.g.cs
-++Details.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\details.cshtml.g.cs
-++Default.cshtml.g.cs
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\components\restaurantcount\default.cshtml.g.cs
-++Imports
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:>1418
-++Sdk.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
-++Sdk.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\sdk\sdk.targets
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.props
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
-++Sdk.props (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.props
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
-++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
-++Microsoft.Common.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
-++Microsoft.NET.Sdk.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
-++Sdk.Razor.CurrentVersion.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
-++Microsoft.NET.Sdk.Web.ProjectSystem.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
-++Microsoft.NET.Sdk.Publish.props
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
-++Microsoft.NET.Sdk.BeforeCommon.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
-++Microsoft.CSharp.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
-++Microsoft.NET.Sdk.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
-++Microsoft.NET.Compatibility.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
-++NuGet.Build.Tasks.Pack.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
-++Sdk.Razor.CurrentVersion.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
-++Microsoft.NET.Sdk.Web.ProjectSystem.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
-++Microsoft.NET.Sdk.Publish.targets
-i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Default.cshtml
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\pages\shared\components\restaurantcount\default.cshtml
 ++Microsoft.NuGet.ImportBefore.props
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
 ++NuGet.props
@@ -1171,6 +952,126 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdk
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
 ++Microsoft.NET.Sdk.DotNetCLITool.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++additional-methods.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\unix\
+++win
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\
+++win-arm
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\
+++sizzle.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\sizzle.js
+++sizzle.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\sizzle.min.js
+++sizzle.min.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\external\sizzle\dist\sizzle.min.map
+++location.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\location.js
+++nonce.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\nonce.js
+++rquery.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\ajax\var\rquery.js
+++rsingleTag.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\core\var\rsingletag.js
+++cssExpand.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\cssexpand.js
+++getStyles.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\getstyles.js
+++isHiddenWithinTree.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\ishiddenwithintree.js
+++rboxStyle.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\rboxstyle.js
+++rnumnonpx.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\rnumnonpx.js
+++swap.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\css\var\swap.js
+++acceptData.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\acceptdata.js
+++dataPriv.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\datapriv.js
+++dataUser.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\data\var\datauser.js
+++rscriptType.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\var\rscripttype.js
+++rtagName.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\manipulation\var\rtagname.js
+++dir.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\dir.js
+++rneedsContext.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\rneedscontext.js
+++siblings.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\node_modules\jquery\src\traversing\var\siblings.js
+++OdeToFood.StaticWebAssets.Manifest.cache
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\staticwebassets\odetofood.staticwebassets.manifest.cache
 ++Microsoft.EntityFrameworkCore.Design.props
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\.nuget\packages\microsoft.entityframeworkcore.design\5.0.16\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
 ++Microsoft.NuGet.props
@@ -1216,6 +1117,63 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdk
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
 ++Microsoft.CodeAnalysis.NetAnalyzers.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++bootstrap.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++native
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\native\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\native\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\native\
+++_ViewImports.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\_viewimports.cshtml.g.cs
+++_ViewStart.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\_viewstart.cshtml.g.cs
+++Error.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\error.cshtml.g.cs
+++Index.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\index.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\index.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\index.cshtml.g.cs
+++Privacy.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\privacy.cshtml.g.cs
 ++Microsoft.NET.ILLink.Tasks.props
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
 ++System.Windows.Forms.Analyzers.props
@@ -1226,6 +1184,47 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studi
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
 ++Microsoft.Common.CurrentVersion.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++netcoreapp3.1
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Data.SqlClient.SNI.pdb
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
+++Project.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\projects\project.cshtml.g.cs
+++_Summary.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\_summary.cshtml.g.cs
+++ClientRestaurants.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\clientrestaurants.cshtml.g.cs
+++Delete.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\delete.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\delete.cshtml.g.cs
+++Detail.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\detail.cshtml.g.cs
+++Edit.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\edit.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\edit.cshtml.g.cs
+++List.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\list.cshtml.g.cs
+++NotFound.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\restaurants\notfound.cshtml.g.cs
+++_Layout.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\_layout.cshtml.g.cs
+++_ValidationScriptsPartial.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\_validationscriptspartial.cshtml.g.cs
+++Create.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\create.cshtml.g.cs
+++Details.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\views\restaurants\details.cshtml.g.cs
 ++Microsoft.Managed.Core.CurrentVersions.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
 ++Microsoft.Cpp.VCLibs120Universal.targets
@@ -1265,9 +1264,14 @@ i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studi
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
 ++Microsoft.Web.ImportAfter.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++dotnet-aspnet-codegenerator-design.exe
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 ++Microsoft.DesktopBridge.Common.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
 ++Microsoft.Docker.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
 ++Microsoft.Web.IISSupport.targets
 i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Default.cshtml.g.cs
+i:{a75e158f-953b-4ef8-acdd-44ebe5e82656}:c:\users\cingi\desktop\pluralsight\asp.net core\asp.net core fundamentals\projects\odetofood\odetofood\obj\debug\net5.0\razor\pages\shared\components\restaurantcount\default.cshtml.g.cs
