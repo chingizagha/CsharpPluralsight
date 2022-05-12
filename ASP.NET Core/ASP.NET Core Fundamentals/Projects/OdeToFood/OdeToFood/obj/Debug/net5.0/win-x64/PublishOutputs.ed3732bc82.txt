@@ -38,6 +38,7 @@ C:\Users\cingi\Desktop\Dotnet\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\cingi\Desktop\Dotnet\web.config
 C:\Users\cingi\Desktop\Dotnet\appsettings.Development.json
 C:\Users\cingi\Desktop\Dotnet\appsettings.json
+C:\Users\cingi\Desktop\Dotnet\appsettings.Production.json
 C:\Users\cingi\Desktop\Dotnet\package-lock.json
 C:\Users\cingi\Desktop\Dotnet\package.json
 C:\Users\cingi\Desktop\Dotnet\node_modules\.package-lock.json

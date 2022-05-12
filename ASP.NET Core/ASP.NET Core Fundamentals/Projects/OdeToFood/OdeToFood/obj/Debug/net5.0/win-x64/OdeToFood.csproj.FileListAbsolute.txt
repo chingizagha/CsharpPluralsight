@@ -647,3 +647,4 @@ C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projec
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\win-x64\OdeToFood.genruntimeconfig.cache
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\obj\Debug\net5.0\win-x64\ref\OdeToFood.dll
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\win-x64\web.config
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\ASP.NET Core Fundamentals\Projects\OdeToFood\OdeToFood\bin\Debug\net5.0\win-x64\appsettings.Production.json

@@ -1,16 +1,11 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using OdeToFood.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace OdeToFood
 {
@@ -33,8 +28,17 @@ namespace OdeToFood
             });
 
             services.AddScoped<IRestaurantData, SqlRestaurantData>();
-            //services.AddScoped<IRestaurantData, InMemoryRestaurantData>();
+            //services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
 
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.None;
+            });
+
+
+            // aspnetcore30
             services.AddRazorPages();
             services.AddControllers();
         }
@@ -52,8 +56,7 @@ namespace OdeToFood
                 app.UseHsts();
             }
 
-            app.Use(SayHelloMiddleWare);
-
+            app.Use(SayHelloMiddleware);
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseNodeModules();
@@ -67,13 +70,15 @@ namespace OdeToFood
             });
         }
 
-        private RequestDelegate SayHelloMiddleWare(RequestDelegate next)
+        private RequestDelegate SayHelloMiddleware(
+                                    RequestDelegate next)
         {
             return async ctx =>
             {
+
                 if (ctx.Request.Path.StartsWithSegments("/hello"))
                 {
-                    await ctx.Response.WriteAsync("Hello, World");
+                    await ctx.Response.WriteAsync("Hello, World!");
                 }
                 else
                 {
@@ -82,4 +87,4 @@ namespace OdeToFood
             };
         }
     }
-}   
+}
