@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+GKLDOosrfwfPlX+n/Osb/ucN6ZUTDR76MhhO/Ax88Yg6HM61wh66T2Ld2u9BCOcWqECCiOqRyU5iIJo5QHFA==",
+  "dgSpecHash": "1/taOKsf5x3BrD3iUzwpP7qvUSGLiXSFOQgHjL+rYNEmbO0Vtm9XgoadDVPP9Q+srrGS4Ic9U4HX1uIxwin0wQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\cingi\\Desktop\\Pluralsight\\ASP.NET Core\\ASP.NET Core Fundamentals\\Projects\\OdeToFood\\OdeToFood.NetCore\\OdeToFood.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.15\\microsoft.netcore.app.runtime.win-x64.5.0.15.nupkg.sha512",
-    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.15.nupkg.sha512",
-    "C:\\Users\\cingi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.15\\microsoft.aspnetcore.app.runtime.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
