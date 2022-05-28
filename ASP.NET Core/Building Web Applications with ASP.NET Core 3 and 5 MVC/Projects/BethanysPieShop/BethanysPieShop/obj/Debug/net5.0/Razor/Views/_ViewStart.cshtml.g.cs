@@ -14,13 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\Views\_ViewImports.cshtml"
+using BethanysPieShop.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\Views\_ViewImports.cshtml"
 using BethanysPieShop.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"482eca9a00fbd64a8a8e04b34361226e2613b155", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9fb6ac9309d16fac979f4d097b1108d6ba18ff9f", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
