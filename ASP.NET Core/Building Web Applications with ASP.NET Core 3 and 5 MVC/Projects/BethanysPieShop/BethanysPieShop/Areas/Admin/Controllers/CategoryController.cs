@@ -2,7 +2,6 @@
 using BethanysPieShop.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -10,51 +9,45 @@ using System.Threading.Tasks;
 
 namespace BethanysPieShop.Areas.Admin.Controllers
 {
+
     [Area("Admin")]
-    public class PieController : Controller
+    public class CategoryController : Controller
     {
-        private readonly IPieRepository _pieRepository;
         private readonly ICategoryRepository _categoryRepository;
         private readonly AppDbContext _appDbContext;
 
-
-        public PieController(IPieRepository pieRepository, ICategoryRepository categoryRepository, AppDbContext appDbContext)
+        public CategoryController(ICategoryRepository categoryRepository, AppDbContext appDbContext)
         {
-            _pieRepository = pieRepository;
             _categoryRepository = categoryRepository;
             _appDbContext = appDbContext;
         }
 
         public ViewResult List()
         {
-            IEnumerable<Pie> pies;
-            //Category category;
+            IEnumerable<Category> category;
 
-            pies = _pieRepository.AllPies.OrderBy(p => p.PieId);
+            category = _categoryRepository.AllCategories.OrderBy(c => c.CategoryId);
 
-
-            return View(new AdminPiesListViewModel
+            return View(new AdminCategoriesListViewModel
             {
-                Pies = pies 
+                Categories = category
             });
         }
 
-        public ActionResult Add()
+        public ViewResult Add()
         {
             return View();
         }
 
-
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Add(
-            [Bind(include: "Name, ShortDescription, LongDescription, Price, ImageUrl, ImageThumbnailUrl, IsPieOfTheWeek, InStock, Category")] Pie pie)
+        public async Task<IActionResult> Add([Bind(include: "CategoryName, Description")]Category category)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    _pieRepository.Add(pie);
+                    _categoryRepository.Add(category);
                     await _appDbContext.SaveChangesAsync();
                     return RedirectToAction(nameof(List));
                 }
@@ -64,12 +57,23 @@ namespace BethanysPieShop.Areas.Admin.Controllers
                 //Log the error (uncomment dex variable name and add a line here to write a log.
                 ModelState.AddModelError("", "Unable to save changes. Try again, and if the problem persists see your system administrator.");
             }
-            return View(pie);
+            return View(category);
         }
 
-        public async Task<IActionResult> Edit(int pieId, [Bind("PieId,,Name,ShortDescription,LongDescription,Price,ImageUrl,ImageThumbnailUrl,IsPieOfTheWeek,InStock,CategoryId,Category")] Pie pie)
+        [HttpGet]
+        public IActionResult Edit(int CategoryId)
         {
-            if (pieId != pie.PieId)
+            var category = _categoryRepository.GetCategoryById(CategoryId);
+            if (category == null)
+                return NotFound();
+            return View(category);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int categoryId, [Bind("CategoryName, Description")] Category category)
+        {
+            if (categoryId != category.CategoryId)
             {
                 return NotFound();
             }
@@ -77,7 +81,7 @@ namespace BethanysPieShop.Areas.Admin.Controllers
             {
                 try
                 {
-                    _pieRepository.Update(pie);
+                    _categoryRepository.Update(category);
                     await _appDbContext.SaveChangesAsync();
                     return RedirectToAction(nameof(List));
                 }
@@ -89,8 +93,7 @@ namespace BethanysPieShop.Areas.Admin.Controllers
                         "see your system administrator.");
                 }
             }
-            return View(pie);
+            return View(category);
         }
     }
 }
-

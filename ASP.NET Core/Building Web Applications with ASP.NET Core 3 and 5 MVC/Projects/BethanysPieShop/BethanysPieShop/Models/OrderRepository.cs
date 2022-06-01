@@ -32,7 +32,7 @@ namespace BethanysPieShop.Models
                 {
                     Amount = shoppingCartItem.Amount,
                     PieId = shoppingCartItem.Pie.PieId,
-                    Price = shoppingCartItem.Pie.Price
+                    Price = shoppingCartItem.Pie.Price.Value
                 };
 
                 order.OrderDetails.Add(orderDetail);

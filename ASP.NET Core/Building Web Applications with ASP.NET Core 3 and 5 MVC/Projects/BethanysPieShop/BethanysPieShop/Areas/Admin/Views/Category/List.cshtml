@@ -1,0 +1,63 @@
+﻿@using BethanysPieShop.ViewModels
+@model AdminCategoriesListViewModel
+
+  <h2>Categories</h2>
+             
+@*  <table class="table table-condensed">
+    <thead>
+      <tr>
+        <th>Pie Id</th>
+        <th>Name</th>
+        <th>Short Description</th>
+        <th>Long Description</th>
+        <th>Price</th>
+        <th>Image Url</th>
+        <th>Image Thumbnail Url</th>
+        <th>Is Pie Of TheWeek</th>
+        <th>In Stock</th>
+        <th>Category Id</th>
+        <th>Category</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+          @foreach (var pie in Model.Pies)
+          {
+            <td>@pie.PieId</td>
+            <td>@pie.Name</td>
+            <td>@pie.ShortDescription</td>
+            <td>@pie.LongDescription</td>
+            <td>@pie.ImageUrl</td>
+            <td>@pie.ImageThumbnailUrl</td>
+            <td>@pie.IsPieOfTheWeek</td>
+            <td>@pie.InStock</td>
+            <td>@pie.CategoryId</td>
+            <td>@pie.Category</td>
+          }
+      </tr>
+    </tbody>
+  </table>*@
+
+  @foreach (var category in Model.Categories)
+  {
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3>@category.CategoryName</h3>
+        </div>
+        <div class="panel-body">
+            <span>Description: @category.Description</span>
+        </div>
+        <div class="panel-footer">
+            @*<a class="btn btn-lg" asp-controller="CategoryController" asp-action="">
+                <i class="glyphicon glyphicon-zoom-in"></i>
+            </a>*@
+            <a class="btn btn-lg" asp-controller="Category" asp-action="Edit" asp-route-id="@category.CategoryId">
+                <i class="glyphicon glyphicon-edit"></i>
+            </a>
+            @*<a class="btn btn-lg" asp-cont">
+                <i class="glyphicon glyphicon-trash"></i>
+            </a>*@
+        </div>
+    </div>      
+  }
+

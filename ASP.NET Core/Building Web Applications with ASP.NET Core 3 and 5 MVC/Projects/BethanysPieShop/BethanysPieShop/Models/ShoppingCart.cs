@@ -108,7 +108,7 @@ namespace BethanysPieShop.Models
         public decimal GetShoppingCartTotal()
         {
             var total = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId)
-                .Select(c => c.Pie.Price * c.Amount).Sum();
+                .Select(c => c.Pie.Price.Value * c.Amount).Sum();
             return total;
         }
     }

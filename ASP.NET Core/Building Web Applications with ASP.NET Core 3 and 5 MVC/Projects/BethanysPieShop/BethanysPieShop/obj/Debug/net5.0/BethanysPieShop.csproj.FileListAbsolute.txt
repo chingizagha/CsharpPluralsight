@@ -176,4 +176,6 @@ C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with A
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Pie\List.cshtml.g.cs
 C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Pie\Add.cshtml.g.cs
-C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Pie\Index.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Add.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
