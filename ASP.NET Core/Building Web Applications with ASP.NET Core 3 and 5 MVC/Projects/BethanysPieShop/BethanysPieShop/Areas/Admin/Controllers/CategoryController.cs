@@ -22,16 +22,29 @@ namespace BethanysPieShop.Areas.Admin.Controllers
             _appDbContext = appDbContext;
         }
 
-        public ViewResult List()
+        [HttpGet]
+        public IActionResult List(string categoryName)
         {
             IEnumerable<Category> category;
 
-            category = _categoryRepository.AllCategories.OrderBy(c => c.CategoryId);
+            if(string.IsNullOrEmpty(categoryName))
+                category = _categoryRepository.AllCategories.OrderBy(c => c.CategoryId);
+            else
+                category = _categoryRepository.GetCategoriesByName(categoryName);
 
             return View(new AdminCategoriesListViewModel
             {
                 Categories = category
             });
+        }
+
+        [HttpGet]
+        public IActionResult Detail(int categoryId)
+        {
+            var category = _categoryRepository.GetCategoryById(categoryId);
+            if (category == null)
+                return RedirectToAction(nameof(List));
+            return View(category);
         }
 
         public ViewResult Add()
@@ -65,18 +78,14 @@ namespace BethanysPieShop.Areas.Admin.Controllers
         {
             var category = _categoryRepository.GetCategoryById(CategoryId);
             if (category == null)
-                return NotFound();
+                return RedirectToAction(nameof(List));
             return View(category);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int categoryId, [Bind("CategoryName, Description")] Category category)
+        public async Task<IActionResult> Edit([Bind("CategoryId, CategoryName, Description")] Category category)
         {
-            if (categoryId != category.CategoryId)
-            {
-                return NotFound();
-            }
             if (ModelState.IsValid)
             {
                 try

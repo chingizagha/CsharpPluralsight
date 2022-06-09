@@ -21,10 +21,16 @@ namespace BethanysPieShop.Models
             return newCategory;
         }
 
-        public Category GetCategoryById(int categoryId)
+        public IEnumerable<Category> GetCategoriesByName(string name)
         {
-            return _appDbContext.Categories.FirstOrDefault(p => p.CategoryId == categoryId);
+            var query = from r in _appDbContext.Categories
+                        where r.CategoryName.StartsWith(name) || string.IsNullOrEmpty(name)
+                        orderby r.CategoryName
+                        select r;
+            return query;
         }
+
+        public Category GetCategoryById(int categoryId) => _appDbContext.Categories.FirstOrDefault(p => p.CategoryId == categoryId);
 
         public Category Remove(int categoryId)
         {
@@ -41,6 +47,5 @@ namespace BethanysPieShop.Models
             entity.State = EntityState.Modified;
             return updatedCategory;
         }
-
     }
 }

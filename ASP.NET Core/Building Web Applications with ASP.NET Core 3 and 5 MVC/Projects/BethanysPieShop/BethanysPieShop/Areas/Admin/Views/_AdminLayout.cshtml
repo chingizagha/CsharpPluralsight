@@ -48,10 +48,13 @@
             </ul>
           </div>
         </nav> 
-          
         <div class="row">
             @RenderBody()
         </div>
+        @if (IsSectionDefined("Scipts"))
+        {
+            @RenderSection("Scripts", required:true)
+        }
     </div>
 </body>
 </html>
