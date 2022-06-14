@@ -3,25 +3,10 @@
 
   <h2>Categories</h2>
          
-@*<form method="get" asp-controller="Category" asp-action="List">*@
-    @*@using (Html.BeginForm("List", "Category"))
-    {
-        <div class="form-group">
-            <div class="input-group">
-                <input type="search" class="form-control" name="categoryName"/>
-                <span class="input-group-btn">
-                    <button type="submit" class="btn btn-outline-dark">
-                        Search  
-                    </button>
-                </span>
-            </div>
-        </div>
-    }*@
-
 <form method="get" asp-controller="Category" asp-action="List">
     <div class="form-group">
         <div class="input-group">
-            <input type="search" class="form-control" name="categoryName"/>
+            <input type="search" class="form-control" name="categoryName" value=""/>
             <span class="input-group-btn">
                 <button type="submit" class="btn btn-outline-dark">
                     Search  
@@ -30,9 +15,6 @@
         </div>
     </div>
 </form>
-
-
-        
 
   @foreach (var category in Model.Categories)
   {
@@ -54,30 +36,10 @@
             @*<a class="btn btn-lg" onclientClicj>
                 <i class="glyphicon glyphicon-trash"></i>
             </a>*@
-            
-
-        <form method="post" asp-action="Delete" asp-route-categoryId="@category.CategoryId">
-
-        <span id="confirmDeleteSpan_@category.CategoryId" style="display:none">
-            <span>Are you sure you want to delete?</span>
-            <button type="submit" class="btn btn-danger">Yes</button>
-            <a href="#" class="btn btn-primary"
-                onclick="confirmDelete('@category.CategoryId', false)">No</a>
-        </span>
-
-        <span id="deleteSpan_@category.CategoryId">
-            <a href="#" class="btn btn-danger"
-                onclick="confirmDelete('@category.CategoryId', true)">Delete</a>
-        </span>
-        </form>
-
-
-
+            <form asp-controller="Category" asp-action="Delete" asp-route-categoryId="@category.CategoryId" class="pt-10"
+                onclick="return confirm('Are you sure you want to delete @category.CategoryName?')">
+                <button type="submit" class="btn btn-lg pt-10"><i class="glyphicon glyphicon-trash"></i></button>
+            </form>
         </div>
     </div>      
-  }
-
-
-  @section Scripts{
-      <script src="C:\Users\cingi\Desktop\Pluralsight\ASP.NET Core\Building Web Applications with ASP.NET Core 3 and 5 MVC\Projects\BethanysPieShop\BethanysPieShop\Areas\Admin\js\CustomScript.js"></script>
   }

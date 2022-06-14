@@ -1,5 +1,6 @@
 ﻿using BethanysPieShop.Models;
 using BethanysPieShop.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
@@ -11,6 +12,7 @@ namespace BethanysPieShop.Areas.Admin.Controllers
 {
 
     [Area("Admin")]
+    [Authorize]
     public class CategoryController : Controller
     {
         private readonly ICategoryRepository _categoryRepository;
@@ -36,6 +38,15 @@ namespace BethanysPieShop.Areas.Admin.Controllers
             {
                 Categories = category
             });
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int categoryId)
+        {
+            _categoryRepository.Remove(categoryId);
+            await _appDbContext.SaveChangesAsync();
+            return RedirectToAction(nameof(List));
         }
 
         [HttpGet]

@@ -1,5 +1,6 @@
 ﻿using BethanysPieShop.Models;
 using BethanysPieShop.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections;
@@ -11,6 +12,7 @@ using System.Threading.Tasks;
 namespace BethanysPieShop.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class PieController : Controller
     {
         private readonly IPieRepository _pieRepository;
@@ -48,7 +50,7 @@ namespace BethanysPieShop.Areas.Admin.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Add(
-            [Bind(include: "Name, ShortDescription, LongDescription, Price, ImageUrl, ImageThumbnailUrl, IsPieOfTheWeek, InStock, Category")] Pie pie)
+            [Bind(include: "Name, ShortDescription, LongDescription, Price, ImageUrl, ImageThumbnailUrl, IsPieOfTheWeek, InStock, CategoryId")] Pie pie)
         {
             try
             {

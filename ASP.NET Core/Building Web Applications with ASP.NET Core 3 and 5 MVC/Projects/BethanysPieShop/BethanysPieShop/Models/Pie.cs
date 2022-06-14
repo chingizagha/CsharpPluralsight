@@ -44,10 +44,10 @@ namespace BethanysPieShop.Models
         [Display(Name = "In Stock")]
         public bool InStock { get; set; }
 
-        [BindNever]
-        public int? CategoryId { get; set; }
+       
+        public int CategoryId { get; set; }
 
-        [Display(Name = "Category")]
+        [BindNever]
         public Category Category { get; set; }
     }
 }

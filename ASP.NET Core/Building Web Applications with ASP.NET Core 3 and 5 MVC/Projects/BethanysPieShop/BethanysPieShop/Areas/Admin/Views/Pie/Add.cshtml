@@ -70,10 +70,12 @@
     </div>
 
     <div class="form-group">
-        <label asp-for="@Model.Category" class="col-md-2 control-label"></label>
+        <label asp-for="@Model.CategoryId" class="col-md-2 control-label"></label>
         <div class="col-md-5">
-            <select asp-for="@Model.Category" class="form-control" asp-items="@(new SelectList(string.Empty, "CategoryId", "Category"))" ></select>
-            <span asp-validation-for="@Model.Category" class="text-danger"></span>
+            <select asp-for="@Model.CategoryId" class="form-control" >
+                @await Component.InvokeAsync("CategorySelect")
+            </select>
+        <span asp-validation-for="@Model.CategoryId" class="text-danger"></span>
         </div>
     </div>
 

@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Areas\Admin\js\CustomScript.js" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\lib\bootstrap\css\bootstrap-theme.css.map" />
     <None Include="wwwroot\lib\bootstrap\css\bootstrap-theme.min.css.map" />
     <None Include="wwwroot\lib\bootstrap\css\bootstrap.css.map" />

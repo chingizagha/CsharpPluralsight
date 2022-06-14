@@ -4,14 +4,16 @@ using BethanysPieShop.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BethanysPieShop.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220614104054_CategoryUpdated")]
+    partial class CategoryUpdated
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -423,7 +425,7 @@ namespace BethanysPieShop.Migrations
             modelBuilder.Entity("BethanysPieShop.Models.Pie", b =>
                 {
                     b.HasOne("BethanysPieShop.Models.Category", "Category")
-                        .WithMany("Pies")
+                        .WithMany()
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -489,11 +491,6 @@ namespace BethanysPieShop.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("BethanysPieShop.Models.Category", b =>
-                {
-                    b.Navigation("Pies");
                 });
 
             modelBuilder.Entity("BethanysPieShop.Models.Order", b =>

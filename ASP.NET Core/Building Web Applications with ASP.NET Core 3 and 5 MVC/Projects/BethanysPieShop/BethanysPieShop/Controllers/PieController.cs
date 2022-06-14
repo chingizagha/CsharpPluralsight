@@ -57,8 +57,5 @@ namespace BethanysPieShop.Controllers
                 return NotFound();
             return View(pie);
         }
-
-
-
     }
 }

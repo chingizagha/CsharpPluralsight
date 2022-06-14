@@ -36,8 +36,15 @@ namespace BethanysPieShop.Models
         {
             var category = GetCategoryById(categoryId);
             if (category != null)
+            {
+                var cat = _appDbContext.Categories.Include(p => p.Pies)
+                .SingleOrDefault(p => p.CategoryId == categoryId);
+
+                foreach (var child in cat.Pies.ToList())
+                    _appDbContext.Pies.Remove(child);
+
                 _appDbContext.Categories.Remove(category);
-            _appDbContext.SaveChanges();
+            }
             return category;
         }
 
