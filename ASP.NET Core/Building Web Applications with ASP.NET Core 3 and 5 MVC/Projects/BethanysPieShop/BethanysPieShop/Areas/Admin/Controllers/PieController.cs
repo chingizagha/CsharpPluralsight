@@ -27,18 +27,37 @@ namespace BethanysPieShop.Areas.Admin.Controllers
             _appDbContext = appDbContext;
         }
 
-        public ViewResult List()
+        public ViewResult List(string pieName)
         {
             IEnumerable<Pie> pies;
-            //Category category;
 
-            pies = _pieRepository.AllPies.OrderBy(p => p.PieId);
-
+            if (string.IsNullOrEmpty(pieName))
+                pies = _pieRepository.AllPies.OrderBy(p => p.PieId);
+            else
+                pies = _pieRepository.GetPiesByName(pieName);
 
             return View(new AdminPiesListViewModel
             {
                 Pies = pies 
             });
+        }
+
+        [HttpGet]
+        public IActionResult Detail(int pieId)
+        {
+            var pie = _pieRepository.GetPieById(pieId);
+            if (pie == null)
+                return RedirectToAction(nameof(List));
+            return View(pie);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int PieId)
+        {
+            _pieRepository.Remove(PieId);
+            await _appDbContext.SaveChangesAsync();
+            return RedirectToAction(nameof(List));
         }
 
         public ActionResult Add()
@@ -69,12 +88,18 @@ namespace BethanysPieShop.Areas.Admin.Controllers
             return View(pie);
         }
 
-        public async Task<IActionResult> Edit(int pieId, [Bind("PieId,,Name,ShortDescription,LongDescription,Price,ImageUrl,ImageThumbnailUrl,IsPieOfTheWeek,InStock,CategoryId,Category")] Pie pie)
+
+        [HttpGet]
+        public IActionResult Edit(int PieId)
         {
-            if (pieId != pie.PieId)
-            {
-                return NotFound();
-            }
+            var pie = _pieRepository.GetPieById(PieId);
+            if (pie == null)
+                return RedirectToAction(nameof(List));
+            return View(pie);
+        }
+
+        public async Task<IActionResult> Edit([Bind("PieId,,Name,ShortDescription,LongDescription,Price,ImageUrl,ImageThumbnailUrl,IsPieOfTheWeek,InStock,CategoryId")] Pie pie)
+        {
             if (ModelState.IsValid)
             {
                 try

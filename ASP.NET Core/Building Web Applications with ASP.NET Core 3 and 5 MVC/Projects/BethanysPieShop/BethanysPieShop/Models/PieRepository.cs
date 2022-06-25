@@ -37,15 +37,24 @@ namespace BethanysPieShop.Models
 
         public Pie GetPieById(int pieId)
         {
-            return _appDbContext.Pies.FirstOrDefault(p => p.PieId == pieId);
+            return _appDbContext.Pies.Include(c=>c.Category).Where(p=>p.PieId==pieId).FirstOrDefault();
         }
 
-        public Pie Remove(int id)
+        public IEnumerable<Pie> GetPiesByName(string name)
         {
-            var pie = GetPieById(id);
+            var query = from r in _appDbContext.Pies.Include(c => c.Category)
+                        where r.Name.StartsWith(name) || string.IsNullOrEmpty(name)
+                        orderby r.Name
+                        select r;
+                        
+            return query;
+        }
+
+        public Pie Remove(int PieId)
+        {
+            var pie = GetPieById(PieId);
             if (pie != null) 
                 _appDbContext.Pies.Remove(pie);
-            _appDbContext.SaveChanges();
             return pie;
         }
 

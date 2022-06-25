@@ -5,7 +5,7 @@ namespace BethanysPieShop.Models
 {
     public class Pie
     {
-        [BindNever]
+        
         public int PieId { get; set; }
 
         [Required(ErrorMessage = "Please enter pie name")]

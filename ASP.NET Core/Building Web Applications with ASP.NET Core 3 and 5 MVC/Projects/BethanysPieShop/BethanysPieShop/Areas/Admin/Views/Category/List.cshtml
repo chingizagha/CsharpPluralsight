@@ -26,19 +26,16 @@
             <span>Description: @category.Description</span>
             <span hidden="hidden">Description: @category.CategoryId</span>
         </div>
-        <div class="panel-footer">
+        <div class="panel-footer flex-row">
             <a class="btn btn-lg" asp-controller="Category" asp-action="Detail" asp-route-categoryId="@category.CategoryId">
                 <i class="glyphicon glyphicon-zoom-in"></i>
             </a>
             <a class="btn btn-lg" asp-controller="Category" asp-action="Edit" asp-route-CategoryId="@category.CategoryId">
                 <i class="glyphicon glyphicon-edit"></i>
             </a>
-            @*<a class="btn btn-lg" onclientClicj>
-                <i class="glyphicon glyphicon-trash"></i>
-            </a>*@
-            <form asp-controller="Category" asp-action="Delete" asp-route-categoryId="@category.CategoryId" class="pt-10"
+            <form asp-controller="Category" asp-action="Delete" asp-route-categoryId="@category.CategoryId"
                 onclick="return confirm('Are you sure you want to delete @category.CategoryName?')">
-                <button type="submit" class="btn btn-lg pt-10"><i class="glyphicon glyphicon-trash"></i></button>
+                <button type="submit" class="btn btn-lg"><i class="glyphicon glyphicon-trash"></i></button>
             </form>
         </div>
     </div>      
